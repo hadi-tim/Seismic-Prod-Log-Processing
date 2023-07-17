@@ -6,6 +6,8 @@ Now days the production logs are generated automatically from the recording unit
 <br>
 For this reason, I generated a python code using ElementTree Python module and SQL to parse the information, process it and then output it in an excel file from the SQLite database file.
 
+1. What is XML format?
+
 
 
 
