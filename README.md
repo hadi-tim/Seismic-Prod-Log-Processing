@@ -9,6 +9,9 @@ For this reason, I generated a python code using ElementTree Python module and S
 ## **1. What is XML format?**
 The [Extensible Markup Language](https://en.wikipedia.org/wiki/XML#:~:text=Extensible%20Markup%20Language%20(XML)%20is,%2Dreadable%20and%20machine%2Dreadable) (XML) is a markup language and file format for storing, transmitting, and reconstructing arbitrary data. It defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
 
+## **2. Parsing XML**
+The xml.etree.ElementTree Python module implements a simple and efficient API for parsing and creating XML data. You can download
+
 
 
 
