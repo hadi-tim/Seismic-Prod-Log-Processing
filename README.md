@@ -9,6 +9,10 @@ For this reason, I generated a python code using ElementTree Python module and S
 ## **1. What is XML format?**
 The [Extensible Markup Language](https://en.wikipedia.org/wiki/XML#:~:text=Extensible%20Markup%20Language%20(XML)%20is,%2Dreadable%20and%20machine%2Dreadable) (XML) is a markup language and file format for storing, transmitting, and reconstructing arbitrary data. It defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
 
+<p align="center">
+    <img src=./images/xml.png class="center">
+</p>
+
 ## **2. Create a new SQL database**
 First of all we need to create and connect our SQL database containing the information we need:
 ```python
@@ -81,6 +85,11 @@ You can even export the information in Excel file.
 
     conn.commit()
 ```
+Below and example of the exported data from the SQL database into an Excel file showing in details the **id**, the **acquisition id**, **reshoot**, **data type** and the **date**
+
+<p align="center">
+    <img src=./images/excel.png class="center">
+</p>
 
 
 
