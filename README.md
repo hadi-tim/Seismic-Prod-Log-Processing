@@ -85,7 +85,7 @@ You can even export the information in Excel file.
 
     conn.commit()
 ```
-Below and example of the exported data from the SQL database into an Excel file showing in details the **id**, the **acquisition id**, **reshoot**, **data type** and the **date**
+Below and example of the exported data from the SQL database into an Excel file showing in details the **id**, the **acquisition id**, **reshoot status**, **data type** and the **time stamp**.
 
 <p align="center">
     <img src=./images/excel.png class="center">
